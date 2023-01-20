@@ -1,17 +1,12 @@
 import * as React from 'react';
 
-// functional component star rating
-function StarRating() {
 
+function StarRating() {
 const [stars, setStars] = React.useState([]);
 const [rating, setRating] = React.useState(0);
 const [hovered, setHovered] = React.useState(0);
 const [selectedIcon, setSelectedIcon] = React.useState("★")
 const [deselectedIcon, setDeselectedIcon] = React.useState("☆")
-
-let outOf = 5;
-
-
 
 
 return (
