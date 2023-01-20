@@ -35,4 +35,4 @@ You may also see any lint errors in the console.
 
 ### Expected 
 
-<a href= "#"> Expected rating app</a>
+<a href= "https://codepen.io/Phinity8/pen/JjjrVpQ"> Expected rating app</a>
