@@ -22,3 +22,15 @@ You may also see any lint errors in the console.
      [] hovered
      [] selectedIcon
      [] deselectedIcon
+
+## Callback functions
+      [] changeRating
+      [] hoverRating
+
+## Events 
+      [] onClick
+      [] onMouseEnter
+      [] onMouseLeave
+
+
+++ The end.
