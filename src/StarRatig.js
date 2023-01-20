@@ -11,9 +11,7 @@ const [deselectedIcon, setDeselectedIcon] = React.useState("☆")
 
 let outOf = 5;
 
-for(let i = 0 ; i < outOf; i++){
-    setStars(i + 1)
-}
+
 
 
 return (
